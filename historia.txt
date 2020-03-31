@@ -1,7 +1,5 @@
-esta es la historia de joel
+esta es la historia de los estudios de joel
 
-joel flores tiene 24 años y nacion en bolivia
-salio a los 21 años para argentina
-voviendo a sus 23 años
+con su primer proyecto en git
 
-hoy hablaremos de su historia.
+con ejemplos de html y css.
