@@ -3,3 +3,9 @@ esta es la historia de los estudios de joel
 con su primer proyecto en git
 
 con ejemplos de html y css.
+
+ahora estamos continuando la clase desde el celular
+
+emulando la contratacion de una persona x
+
+del curso de git.
