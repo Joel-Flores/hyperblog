@@ -9,8 +9,8 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy "muy buena lo ne Anita"
+* Las personalidades múltiples de Freddy "muy buena lo de Anita"
 
-Y como un amable recordatorio: **Aprende en Platzi**.
+Y como un amable recordatorio: **Sigue aprendiendo en Platzi**.
   Diseñado para el ejemplo del curso. Si llegas acá  ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
   **NO TE ARREPENTIRAS**
